@@ -1,90 +1,59 @@
-# AstroClass
-Aplicativo exclusivo para os estudos de astronomia e curiosidades 
-Se você vai usar um aplicativo que gera sites a partir de descrição, pode colar este texto:
+Aba "Planetas"
 
----
+Aqui você encontra os mundos do Sistema Solar:
 
-Crie uma página moderna de astronomia chamada **AstroClass**.
+Mercúrio — o mais próximo do Sol.
+Vênus — o mais quente.
+Marte — o planeta vermelho.
+Júpiter — o gigante gasoso.
 
-O site deve ter um visual futurista e profissional, inspirado no espaço sideral. O fundo principal deve ser azul-escuro quase preto, com estrelas e nebulosas ao fundo. A paleta de cores deve usar tons de azul, preto, branco e roxo.
+Cada planeta possui informações sobre tamanho, temperatura, luas e composição.
 
-No topo da página, crie um cabeçalho fixo contendo o logotipo "🚀 AstroClass" à esquerda e um menu de navegação à direita com as opções: Início, Cursos, Sistema Solar, Galáxias, Observação e Contato.
+⭐ Aba "Estrelas"
 
-Abaixo do cabeçalho, crie uma seção principal (hero section) ocupando toda a tela. Utilize uma imagem de alta qualidade do espaço como plano de fundo. No centro da tela, exiba o título:
+As estrelas são como "usinas de energia" cósmicas.
 
-"AstroClass"
+Seu perfil principal:
 
-Abaixo do título, coloque o subtítulo:
+☀️ Sol
 
-"Explore os mistérios do universo e aprenda astronomia de forma simples, moderna e interativa."
+Status:
 
-Adicione um botão destacado com o texto:
+Idade: ~4,6 bilhões de anos
+Combustível: hidrogênio
+Energia: produzida por fusão nuclear
+🌠 Aba "Galáxias"
 
-"Começar Jornada Espacial"
+Imagine uma rede social onde cada galáxia é uma comunidade gigante contendo bilhões de estrelas.
 
-Ao passar o mouse sobre o botão, ele deve ganhar brilho azul e aumentar levemente de tamanho.
+Exemplos:
 
-Depois da seção principal, crie uma seção chamada:
+Via Láctea
+Galáxia de Andrômeda
+🔭 Aba "Explorar"
 
-"Áreas de Estudo"
+Ferramentas da astronomia:
 
-Nesta seção, apresente quatro cartões modernos com ícones:
+🔭 Telescópios → ampliam objetos distantes.
 
-🪐 Sistema Solar
-Descrição: Aprenda sobre os planetas, luas, asteroides e cometas.
+📡 Sondas espaciais → visitam outros planetas.
 
-⭐ Estrelas
-Descrição: Descubra como as estrelas nascem, vivem e morrem.
+🛰️ Satélites → coletam dados do espaço.
 
-🌌 Galáxias
-Descrição: Explore a Via Láctea e bilhões de galáxias espalhadas pelo cosmos.
+📊 Aba "Histórico"
 
-🔭 Observação Astronômica
-Descrição: Aprenda técnicas para observar o céu noturno usando telescópios e aplicativos.
+Principais descobertas:
 
-Os cartões devem possuir bordas arredondadas, efeito de vidro (glassmorphism), sombra suave e animação ao passar o mouse.
+A Terra gira em torno do Sol.
+Existem bilhões de galáxias.
+O universo está em expansão.
+Foram detectados milhares de exoplanetas.
+🎯 Missão Principal do App
 
-Crie uma seção chamada:
+Responder perguntas como:
 
-"Curiosidades do Universo"
-
-Apresente três curiosidades em caixas elegantes:
-
-* O Sol representa mais de 99% da massa do Sistema Solar.
-* Existem bilhões de galáxias observáveis no universo.
-* A luz do Sol leva aproximadamente 8 minutos para chegar à Terra.
-
-Adicione uma seção chamada:
-
-"Galeria Espacial"
-
-Exiba imagens de planetas, nebulosas, galáxias e telescópios em formato de grade responsiva com animação de zoom ao passar o mouse.
-
-Crie também uma seção chamada:
-
-"Cursos AstroClass"
-
-Mostre três cursos fictícios:
-
-Curso Iniciante de Astronomia
-Curso Sistema Solar Completo
-Curso Observação do Céu Profundo
-
-Cada curso deve possuir botão "Saiba Mais".
-
-Próximo ao final da página, adicione uma seção de contato contendo:
-
-Nome
-E-mail
-Mensagem
-
-E um botão azul chamado:
-
-"Enviar Mensagem"
-
-No rodapé, utilize fundo preto com estrelas discretas e exiba o texto:
-
-"© 2026 AstroClass - Explorando o Universo, uma estrela por vez."
-
-O site deve ser totalmente responsivo para celular, tablet e computador, com animações suaves, design moderno, visual espacial premium e excelente experiência do usuário.
+Como as estrelas nascem?
+Existem outros planetas habitáveis?
+Como surgiu o universo?
+O que acontece dentro de um buraco negro?
 

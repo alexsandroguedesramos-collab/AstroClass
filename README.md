@@ -158,17 +158,19 @@ Perfeito! Vamos criar um **pacote de perguntas e respostas cósmicas**, exploran
  **4. Sobre vida e alienígenas**
 
 **Pergunta:** Se existirem alienígenas, por que não os encontramos?
-**Resposta:** Isso é chamado de **Paradoxo de Fermi**. Possíveis respostas:
+
+Resposta; Isso é chamado de **Paradoxo de Fermi**. Possíveis respostas:
 
 * Civilizações avançadas são raras ou se extinguem rápido.
 * Elas estão muito distantes.
 * Evitam contato ou não usamos a tecnologia certa para detectá-las.
 
 **Pergunta:** Podemos criar vida em laboratório?
-**Resposta:** Sim, cientistas já criaram **formas de vida sintéticas simples**, mas reproduzir organismos complexos ou vida inteligente ainda está além de nossa capacidade.
 
+Resposta
 
-
+Sim, cientistas já criaram **formas de vida sintéticas simples**, mas reproduzir organismos complexos ou vida inteligente ainda está além de nossa capacidade.
+**
  5. Perguntas curiosas e divertidas
 
 **Pergunta:** Se caíssemos em um buraco de minhoca, onde iríamos?

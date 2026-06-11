@@ -169,7 +169,7 @@ Perfeito! Vamos criar um **pacote de perguntas e respostas cósmicas**, exploran
 
 
 
- **5. Perguntas curiosas e divertidas**
+ 5. Perguntas curiosas e divertidas
 
 **Pergunta:** Se caíssemos em um buraco de minhoca, onde iríamos?
 **Resposta:** Buracos de minhoca são atalhos teóricos no espaço-tempo. Poderiam ligar pontos distantes do universo, mas até agora ninguém comprovou sua existência ou como atravessá-los com segurança.
